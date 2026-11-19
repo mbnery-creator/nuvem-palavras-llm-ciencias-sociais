@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title description">
+  <title id="title">Nuvem de palavras: LLMs nas ciências sociais</title>
+  <desc id="description">Visualização das palavras mais frequentes nos resumos de dois artigos sobre modelos de linguagem e ciências sociais computacionais, encontrados no OpenAlex.</desc>
+  <rect width="1100" height="760" rx="24" fill="#f7f5ef"/>
+  <text x="550" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#152d3c">LLMs nas ciências sociais</text>
+  <text x="550" y="91" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#526873">Palavras mais recorrentes nos resumos de dois artigos do OpenAlex</text>
+
+  <g font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="550" y="158" font-size="31" fill="#527f78"><title>zero-shot: 4 ocorrências</title>zero-shot</text>
+    <text x="550" y="219" font-size="44" fill="#be704c"><title>models: 5 ocorrências</title>models</text>
+    <text x="275" y="292" font-size="57" fill="#397f88"><title>social: 8 ocorrências</title>social</text>
+    <text x="814" y="292" font-size="59" fill="#d27a4d"><title>CSS: 8 ocorrências</title>CSS</text>
+    <text x="550" y="373" font-size="96" fill="#25495a"><title>LLMs: 13 ocorrências</title>LLMs</text>
+
+    <text x="276" y="430" font-size="35" fill="#537b91"><title>science: 4 ocorrências</title>science</text>
+    <text x="550" y="430" font-size="36" fill="#b55b55"><title>language: 4 ocorrências</title>language</text>
+    <text x="824" y="430" font-size="35" fill="#527f78"><title>tasks: 4 ocorrências</title>tasks</text>
+
+    <text x="275" y="493" font-size="33" fill="#be704c"><title>analysis: 4 ocorrências</title>analysis</text>
+    <text x="550" y="493" font-size="34" fill="#397f88"><title>data: 4 ocorrências</title>data</text>
+    <text x="827" y="493" font-size="30" fill="#537b91"><title>computational: 3 ocorrências</title>computational</text>
+
+    <text x="248" y="554" font-size="27" fill="#527f78"><title>pipeline: 3 ocorrências</title>pipeline</text>
+    <text x="490" y="554" font-size="27" fill="#b55b55"><title>generation: 3 ocorrências</title>generation</text>
+    <text x="790" y="554" font-size="27" fill="#be704c"><title>applications: 3 ocorrências</title>applications</text>
+    <text x="1000" y="554" font-size="25" fill="#397f88"><title>detection: 3 ocorrências</title>detection</text>
+
+    <text x="203" y="350" font-size="24" fill="#be704c" transform="rotate(-90 203 350)"><title>augment: 2 ocorrências</title>augment</text>
+    <text x="900" y="350" font-size="24" fill="#527f78" transform="rotate(-90 900 350)"><title>performance: 2 ocorrências</title>performance</text>
+    <text x="310" y="226" font-size="23" fill="#537b91"><title>humans: 2 ocorrências</title>humans</text>
+    <text x="790" y="226" font-size="23" fill="#b55b55"><title>research: 2 ocorrências</title>research</text>
+    <text x="310" y="600" font-size="23" fill="#397f88"><title>human: 2 ocorrências</title>human</text>
+    <text x="520" y="600" font-size="23" fill="#be704c"><title>content: 2 ocorrências</title>content</text>
+    <text x="730" y="600" font-size="23" fill="#537b91"><title>potential: 2 ocorrências</title>potential</text>
+    <text x="890" y="600" font-size="22" fill="#527f78"><title>phenomena: 2 ocorrências</title>phenomena</text>
+  </g>
+
+  <line x1="70" y1="650" x2="1030" y2="650" stroke="#d7dedb" stroke-width="1"/>
+  <text x="550" y="680" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#526873">Base: resumos de Ziems et al. (2024) e Thapa et al. (2025)</text>
+  <text x="550" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#71828a">Contagem sem distinção entre maiúsculas e minúsculas; palavras funcionais comuns removidas.</text>
+</svg>
